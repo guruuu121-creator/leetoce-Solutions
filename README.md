@@ -7,10 +7,12 @@ My Java DSA Practice Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0001-two-sum) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0001-two-sum) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Math
 |  |
 | ------- |
@@ -39,4 +41,8 @@ My Java DSA Practice Solutions
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0043-multiply-strings) |
+## Matrix
+|  |
+| ------- |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 <!---LeetCode Topics End-->
