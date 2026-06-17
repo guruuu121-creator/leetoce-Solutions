@@ -22,6 +22,7 @@ My Java DSA Practice Solutions
 | [0009-palindrome-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0043-multiply-strings) |
+| [0415-add-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@ My Java DSA Practice Solutions
 | [0043-multiply-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0179-largest-number) |
+| [0415-add-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0415-add-strings) |
 ## String Matching
 |  |
 | ------- |
@@ -47,6 +49,7 @@ My Java DSA Practice Solutions
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0043-multiply-strings) |
+| [0415-add-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0415-add-strings) |
 ## Matrix
 |  |
 | ------- |
