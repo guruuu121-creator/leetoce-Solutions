@@ -7,6 +7,7 @@ My Java DSA Practice Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0179-largest-number) |
@@ -26,6 +27,7 @@ My Java DSA Practice Solutions
 | [0009-palindrome-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
