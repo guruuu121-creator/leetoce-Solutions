@@ -34,12 +34,14 @@ My Java DSA Practice Solutions
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0179-largest-number) |
 | [0415-add-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1108-defanging-an-ip-address) |
