@@ -28,6 +28,7 @@ My Java DSA Practice Solutions
 | [0029-divide-two-integers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0066-plus-one) |
+| [0367-valid-perfect-square](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
@@ -77,6 +78,7 @@ My Java DSA Practice Solutions
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
