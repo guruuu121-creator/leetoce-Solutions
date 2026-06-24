@@ -13,6 +13,7 @@ My Java DSA Practice Solutions
 | [0136-single-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0179-largest-number) |
 | [0303-range-sum-query-immutable](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0912-sort-an-array) |
@@ -24,6 +25,7 @@ My Java DSA Practice Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0001-two-sum) |
+| [0525-contiguous-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Math
@@ -118,6 +120,7 @@ My Java DSA Practice Solutions
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
