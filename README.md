@@ -17,6 +17,7 @@ My Java DSA Practice Solutions
 | [0560-subarray-sum-equals-k](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0704-binary-search) |
+| [0769-max-chunks-to-make-sorted](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0896-monotonic-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0912-sort-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -84,12 +85,14 @@ My Java DSA Practice Solutions
 | ------- |
 | [0179-largest-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0561-array-partition) |
+| [0769-max-chunks-to-make-sorted](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0561-array-partition) |
+| [0769-max-chunks-to-make-sorted](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0912-sort-an-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
@@ -136,4 +139,12 @@ My Java DSA Practice Solutions
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Stack
+|  |
+| ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
