@@ -31,6 +31,7 @@ My Java DSA Practice Solutions
 | [0066-plus-one](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0066-plus-one) |
 | [0367-valid-perfect-square](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0415-add-strings) |
+| [2469-convert-the-temperature](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2469-convert-the-temperature) |
 ## Two Pointers
 |  |
 | ------- |
