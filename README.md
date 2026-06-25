@@ -24,6 +24,7 @@ My Java DSA Practice Solutions
 | [1732-find-the-highest-altitude](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2293-min-max-game](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2293-min-max-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ My Java DSA Practice Solutions
 | [0043-multiply-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0415-add-strings) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2293-min-max-game](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2293-min-max-game) |
 ## Matrix
 |  |
 | ------- |
