@@ -84,6 +84,7 @@ My Java DSA Practice Solutions
 | ------- |
 | [0029-divide-two-integers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -126,6 +127,7 @@ My Java DSA Practice Solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
