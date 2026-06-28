@@ -73,6 +73,7 @@ My Java DSA Practice Solutions
 | [0345-reverse-vowels-of-a-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## String Matching
 |  |
 | ------- |
@@ -181,4 +182,5 @@ My Java DSA Practice Solutions
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
