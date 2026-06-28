@@ -21,6 +21,7 @@ My Java DSA Practice Solutions
 | [0525-contiguous-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0561-array-partition) |
+| [0643-maximum-average-subarray-i](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0704-binary-search) |
 | [0769-max-chunks-to-make-sorted](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0881-boats-to-save-people) |
@@ -176,4 +177,8 @@ My Java DSA Practice Solutions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
