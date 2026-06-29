@@ -37,6 +37,7 @@ My Java DSA Practice Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0347-top-k-frequent-elements](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -66,6 +67,7 @@ My Java DSA Practice Solutions
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0058-length-of-last-word) |
@@ -184,6 +186,7 @@ My Java DSA Practice Solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
