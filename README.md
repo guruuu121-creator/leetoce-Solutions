@@ -31,6 +31,7 @@ My Java DSA Practice Solutions
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1572-matrix-diagonal-sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2293-min-max-game](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2293-min-max-game) |
@@ -78,6 +79,7 @@ My Java DSA Practice Solutions
 | [0415-add-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String Matching
 |  |
 | ------- |
