@@ -32,6 +32,7 @@ My Java DSA Practice Solutions
 | [1004-max-consecutive-ones-iii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1572-matrix-diagonal-sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -111,6 +112,7 @@ My Java DSA Practice Solutions
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Greedy
