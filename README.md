@@ -60,6 +60,7 @@ My Java DSA Practice Solutions
 | [0043-multiply-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0066-plus-one) |
 | [0367-valid-perfect-square](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0415-add-strings) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2469-convert-the-temperature](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2469-convert-the-temperature) |
@@ -86,6 +87,7 @@ My Java DSA Practice Solutions
 | [0125-valid-palindrome](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -107,6 +109,7 @@ My Java DSA Practice Solutions
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0415-add-strings) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2293-min-max-game](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2293-min-max-game) |
