@@ -30,6 +30,7 @@ My Java DSA Practice Solutions
 | [0904-fruit-into-baskets](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1572-matrix-diagonal-sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -60,6 +61,7 @@ My Java DSA Practice Solutions
 | [0066-plus-one](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0066-plus-one) |
 | [0367-valid-perfect-square](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0415-add-strings) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2469-convert-the-temperature](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2469-convert-the-temperature) |
 ## Two Pointers
 |  |
@@ -215,4 +217,8 @@ My Java DSA Practice Solutions
 | [1004-max-consecutive-ones-iii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
