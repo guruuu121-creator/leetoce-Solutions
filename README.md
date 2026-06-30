@@ -44,6 +44,7 @@ My Java DSA Practice Solutions
 | ------- |
 | [0001-two-sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0290-word-pattern](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -90,6 +91,7 @@ My Java DSA Practice Solutions
 | [0168-excel-sheet-column-title](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0179-largest-number) |
+| [0290-word-pattern](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0415-add-strings) |
