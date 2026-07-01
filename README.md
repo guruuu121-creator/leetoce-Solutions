@@ -10,6 +10,7 @@ My Java DSA Practice Solutions
 | [0015-3sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0088-merge-sorted-array) |
@@ -44,6 +45,7 @@ My Java DSA Practice Solutions
 | ------- |
 | [0001-two-sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -86,6 +88,7 @@ My Java DSA Practice Solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0168-excel-sheet-column-title) |
@@ -139,6 +142,7 @@ My Java DSA Practice Solutions
 | [0015-3sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0179-largest-number) |
