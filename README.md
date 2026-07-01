@@ -19,6 +19,7 @@ My Java DSA Practice Solutions
 | [0136-single-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0525-contiguous-array) |
@@ -50,6 +51,7 @@ My Java DSA Practice Solutions
 | [0049-group-anagrams](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0383-ransom-note) |
@@ -154,6 +156,7 @@ My Java DSA Practice Solutions
 | [0075-sort-colors](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0561-array-partition) |
 | [0769-max-chunks-to-make-sorted](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
@@ -193,6 +196,7 @@ My Java DSA Practice Solutions
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0561-array-partition) |
