@@ -15,6 +15,7 @@ My Java DSA Practice Solutions
 | [0075-sort-colors](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -48,6 +49,7 @@ My Java DSA Practice Solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0290-word-pattern](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -240,4 +242,8 @@ My Java DSA Practice Solutions
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
