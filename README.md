@@ -11,6 +11,7 @@ My Java DSA Practice Solutions
 | [0016-3sum-closest](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0088-merge-sorted-array) |
@@ -172,6 +173,7 @@ My Java DSA Practice Solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0912-sort-an-array) |
@@ -214,6 +216,7 @@ My Java DSA Practice Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Design
 |  |
