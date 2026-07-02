@@ -18,6 +18,7 @@ My Java DSA Practice Solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0229-majority-element-ii) |
@@ -220,6 +221,7 @@ My Java DSA Practice Solutions
 | ------- |
 | [0053-maximum-subarray](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Design
 |  |
