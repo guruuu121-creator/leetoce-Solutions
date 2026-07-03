@@ -229,11 +229,13 @@ My Java DSA Practice Solutions
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0303-range-sum-query-immutable) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0155-min-stack) |
 | [0769-max-chunks-to-make-sorted](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 ## Monotonic Stack
 |  |
