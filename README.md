@@ -98,6 +98,7 @@ My Java DSA Practice Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0049-group-anagrams) |
@@ -232,6 +233,7 @@ My Java DSA Practice Solutions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0020-valid-parentheses) |
 | [0769-max-chunks-to-make-sorted](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 ## Monotonic Stack
 |  |
