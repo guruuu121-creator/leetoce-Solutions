@@ -118,6 +118,7 @@ My Java DSA Practice Solutions
 | [0567-permutation-in-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0567-permutation-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1694-reformat-phone-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1694-reformat-phone-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String Matching
 |  |
