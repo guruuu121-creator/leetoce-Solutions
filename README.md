@@ -24,6 +24,7 @@ My Java DSA Practice Solutions
 | [0229-majority-element-ii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0561-array-partition) |
@@ -58,6 +59,7 @@ My Java DSA Practice Solutions
 | [0229-majority-element-ii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -92,6 +94,7 @@ My Java DSA Practice Solutions
 | [0088-merge-sorted-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0881-boats-to-save-people) |
 ## String
@@ -164,6 +167,7 @@ My Java DSA Practice Solutions
 | [0179-largest-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0561-array-partition) |
 | [0769-max-chunks-to-make-sorted](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0881-boats-to-save-people) |
@@ -172,6 +176,7 @@ My Java DSA Practice Solutions
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1004-max-consecutive-ones-iii) |
