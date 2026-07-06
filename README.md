@@ -107,6 +107,7 @@ My Java DSA Practice Solutions
 | [0043-multiply-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0168-excel-sheet-column-title) |
@@ -242,6 +243,7 @@ My Java DSA Practice Solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0155-min-stack) |
 | [0769-max-chunks-to-make-sorted](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 ## Monotonic Stack
