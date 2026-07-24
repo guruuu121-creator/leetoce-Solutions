@@ -57,6 +57,7 @@ My Java DSA Practice Solutions
 | [0076-minimum-window-substring](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -78,6 +79,7 @@ My Java DSA Practice Solutions
 | [0066-plus-one](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0264-ugly-number-ii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0264-ugly-number-ii) |
 | [0367-valid-perfect-square](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0415-add-strings) |
@@ -194,6 +196,7 @@ My Java DSA Practice Solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -233,6 +236,7 @@ My Java DSA Practice Solutions
 | [0053-maximum-subarray](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0264-ugly-number-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Design
 |  |
