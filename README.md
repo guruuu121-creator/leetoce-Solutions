@@ -19,6 +19,7 @@ My Java DSA Practice Solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -83,6 +84,7 @@ My Java DSA Practice Solutions
 | [0029-divide-two-integers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0264-ugly-number-ii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0264-ugly-number-ii) |
@@ -257,6 +259,7 @@ My Java DSA Practice Solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0155-min-stack) |
 | [0769-max-chunks-to-make-sorted](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 ## Monotonic Stack
