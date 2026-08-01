@@ -47,6 +47,7 @@ My Java DSA Practice Solutions
 | [1672-richest-customer-wealth](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2293-min-max-game](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2293-min-max-game) |
@@ -89,6 +90,7 @@ My Java DSA Practice Solutions
 | [0412-fizz-buzz](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0415-add-strings) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2469-convert-the-temperature) |
 ## Two Pointers
 |  |
@@ -295,4 +297,8 @@ My Java DSA Practice Solutions
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
