@@ -311,4 +311,8 @@ My Java DSA Practice Solutions
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
