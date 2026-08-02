@@ -134,6 +134,7 @@ My Java DSA Practice Solutions
 | [0424-longest-repeating-character-replacement](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1694-reformat-phone-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1694-reformat-phone-number) |
@@ -264,6 +265,7 @@ My Java DSA Practice Solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0155-min-stack) |
 | [0769-max-chunks-to-make-sorted](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
