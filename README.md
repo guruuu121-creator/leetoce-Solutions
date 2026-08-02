@@ -315,4 +315,5 @@ My Java DSA Practice Solutions
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0175-combine-two-tables) |
+| [0584-find-customer-referee](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
