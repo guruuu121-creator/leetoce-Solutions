@@ -139,6 +139,7 @@ My Java DSA Practice Solutions
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1694-reformat-phone-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1694-reformat-phone-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## String Matching
 |  |
 | ------- |
@@ -157,6 +158,7 @@ My Java DSA Practice Solutions
 | [0415-add-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0415-add-strings) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2293-min-max-game](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2293-min-max-game) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Matrix
 |  |
 | ------- |
@@ -266,6 +268,7 @@ My Java DSA Practice Solutions
 | [0155-min-stack](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0155-min-stack) |
 | [0769-max-chunks-to-make-sorted](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
