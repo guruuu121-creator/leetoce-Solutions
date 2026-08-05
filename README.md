@@ -92,6 +92,7 @@ My Java DSA Practice Solutions
 | [0412-fizz-buzz](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0507-perfect-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
