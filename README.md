@@ -97,6 +97,7 @@ My Java DSA Practice Solutions
 | [1232-check-if-it-is-a-straight-line](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2469-convert-the-temperature) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -321,4 +322,8 @@ My Java DSA Practice Solutions
 | [0584-find-customer-referee](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1148-article-views-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
