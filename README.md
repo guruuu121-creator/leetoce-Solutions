@@ -42,6 +42,7 @@ My Java DSA Practice Solutions
 | [0912-sort-an-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0997-find-the-town-judge](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -79,6 +80,7 @@ My Java DSA Practice Solutions
 | [0697-degree-of-an-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0697-degree-of-an-array) |
 | [0904-fruit-into-baskets](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0997-find-the-town-judge](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0997-find-the-town-judge) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Math
 |  |
@@ -332,4 +334,8 @@ My Java DSA Practice Solutions
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
