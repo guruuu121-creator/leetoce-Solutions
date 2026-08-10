@@ -32,6 +32,7 @@ My Java DSA Practice Solutions
 | [0540-single-element-in-a-sorted-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0704-binary-search) |
@@ -102,6 +103,7 @@ My Java DSA Practice Solutions
 | [0441-arranging-coins](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1512-number-of-good-pairs](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -200,6 +202,7 @@ My Java DSA Practice Solutions
 | [0347-top-k-frequent-elements](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0912-sort-an-array) |
