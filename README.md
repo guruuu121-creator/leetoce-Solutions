@@ -48,6 +48,7 @@ My Java DSA Practice Solutions
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -84,6 +85,7 @@ My Java DSA Practice Solutions
 | [0904-fruit-into-baskets](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0997-find-the-town-judge) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Math
@@ -206,6 +208,7 @@ My Java DSA Practice Solutions
 | [0769-max-chunks-to-make-sorted](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
@@ -254,6 +257,7 @@ My Java DSA Practice Solutions
 | [0383-ransom-note](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
