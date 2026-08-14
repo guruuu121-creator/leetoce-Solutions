@@ -374,4 +374,8 @@ My Java DSA Practice Solutions
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3477-fruits-into-baskets-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
