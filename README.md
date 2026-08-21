@@ -119,6 +119,7 @@ My Java DSA Practice Solutions
 | [0633-sum-of-square-numbers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1512-number-of-good-pairs](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1952-three-divisors](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -365,6 +366,7 @@ My Java DSA Practice Solutions
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Database
 |  |
@@ -379,6 +381,7 @@ My Java DSA Practice Solutions
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Graph Theory
 |  |
@@ -396,4 +399,12 @@ My Java DSA Practice Solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0020-valid-parentheses) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
