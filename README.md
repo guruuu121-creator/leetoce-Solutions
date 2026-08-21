@@ -116,6 +116,7 @@ My Java DSA Practice Solutions
 | [0492-construct-the-rectangle](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1512-number-of-good-pairs](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -136,6 +137,7 @@ My Java DSA Practice Solutions
 | [0345-reverse-vowels-of-a-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -243,6 +245,7 @@ My Java DSA Practice Solutions
 | [0367-valid-perfect-square](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
