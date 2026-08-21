@@ -25,6 +25,7 @@ My Java DSA Practice Solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -108,6 +109,7 @@ My Java DSA Practice Solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0264-ugly-number-ii) |
 | [0367-valid-perfect-square](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0412-fizz-buzz) |
@@ -134,6 +136,7 @@ My Java DSA Practice Solutions
 | [0075-sort-colors](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0349-intersection-of-two-arrays) |
