@@ -141,6 +141,7 @@ My Java DSA Practice Solutions
 | [0344-reverse-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0881-boats-to-save-people) |
@@ -165,6 +166,7 @@ My Java DSA Practice Solutions
 | [0344-reverse-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0415-add-strings) |
@@ -312,6 +314,7 @@ My Java DSA Practice Solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0264-ugly-number-ii) |
+| [0392-is-subsequence](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Design
 |  |
