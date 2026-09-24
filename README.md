@@ -69,6 +69,7 @@ My Java DSA Practice Solutions
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3477-fruits-into-baskets-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ My Java DSA Practice Solutions
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
