@@ -76,6 +76,7 @@ My Java DSA Practice Solutions
 | ------- |
 | [0001-two-sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0076-minimum-window-substring) |
@@ -108,6 +109,7 @@ My Java DSA Practice Solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0066-plus-one) |
@@ -156,6 +158,7 @@ My Java DSA Practice Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0038-count-and-say) |
