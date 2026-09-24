@@ -56,6 +56,7 @@ My Java DSA Practice Solutions
 | [1232-check-if-it-is-a-straight-line](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1390-four-divisors](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1390-four-divisors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -127,6 +128,7 @@ My Java DSA Practice Solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1390-four-divisors](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -424,9 +426,11 @@ My Java DSA Practice Solutions
 ## Prime Factorization
 |  |
 | ------- |
+| [1390-four-divisors](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1952-three-divisors) |
 ## Sieve Theory
 |  |
 | ------- |
+| [1390-four-divisors](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
