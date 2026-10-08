@@ -186,6 +186,7 @@ My Java DSA Practice Solutions
 | [0438-find-all-anagrams-in-a-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0567-permutation-in-string) |
 | [0856-score-of-parentheses](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -347,6 +348,7 @@ My Java DSA Practice Solutions
 | [0496-next-greater-element-i](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0496-next-greater-element-i) |
 | [0769-max-chunks-to-make-sorted](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
@@ -426,6 +428,7 @@ My Java DSA Practice Solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Prime Factorization
 |  |
 | ------- |
