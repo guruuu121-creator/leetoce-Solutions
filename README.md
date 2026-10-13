@@ -138,6 +138,7 @@ My Java DSA Practice Solutions
 | [3536-maximum-product-of-two-digits](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -220,6 +221,7 @@ My Java DSA Practice Solutions
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3477-fruits-into-baskets-ii) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Matrix
 |  |
 | ------- |
