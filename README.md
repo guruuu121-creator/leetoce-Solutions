@@ -135,6 +135,7 @@ My Java DSA Practice Solutions
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
@@ -260,6 +261,7 @@ My Java DSA Practice Solutions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/guruuu121-creator/leetoce-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
